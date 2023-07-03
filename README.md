@@ -28,3 +28,14 @@ Além disso, tenho capacidade comprovada de identificar e relatar bugs e problem
 Estou sempre atualizado sobre as últimas tendências e melhores práticas no campo de QA. Tenho familiaridade com metodologias ágeis, como Scrum, e posso facilmente me adaptar às demandas em constante mudança do projeto.
 
 Em resumo, sou um profissional de QA dedicado, orientado para resultados e apaixonado por garantir a qualidade do software. Estou confiante de que minha experiência e habilidades seriam uma ótima contribuição para qualquer equipe de desenvolvimento. Estou disponível para discutir como posso ajudar a alcançar seus objetivos de garantia de qualidade de software.
+
+### Tipos de testes
+- API
+- WEB
+- Mobile
+
+### Estrategias
+- Teste Manual / Exploratório
+- Teste automatizado / Progressivo e Regressivo
+- Teste de integração funcional e não funcional
+- Teste de performace / Estresse e Carga
