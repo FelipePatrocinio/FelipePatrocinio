@@ -17,6 +17,8 @@
     <img align="center" alt="sql" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 Durante minha carreira, adquiri habilidades sólidas na elaboração de estratégias de teste, identificação e execução de testes de sistema e integração, além de realizar testes de regressão. Também tenho experiência em testes automatizados usando ferramentas como Cypress Robot Jmeter e Postman.
 
 Sou um profissional detalhista, que presta atenção aos mínimos detalhes durante o processo de testes. Possuo excelentes habilidades de comunicação, o que me permite trabalhar em equipe com desenvolvedores, analistas de sistemas e gerentes de projeto, garantindo que todos tenham uma compreensão clara dos requisitos e expectativas do projeto.
