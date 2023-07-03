@@ -39,3 +39,13 @@ Em resumo, sou um profissional de QA dedicado, orientado para resultados e apaix
 - Teste automatizado / Progressivo e Regressivo
 - Teste de integração funcional e não funcional
 - Teste de performace / Estresse e Carga
+
+### Documentação e processos de testes
+- Confluence
+- Criação de plano de teste
+- Criação de cenários e casos de testes
+- Report de bugs
+- Gherkin e BDD
+- Metodologia AGil / SCRUM e Kanbanc
+- JIRA / Zephyr
+- Jenkins CI/CD
