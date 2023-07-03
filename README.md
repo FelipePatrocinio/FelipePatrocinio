@@ -17,7 +17,7 @@
     <img align="center" alt="sql" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePatrocinio&hide_progress=false)
 
 Durante minha carreira, adquiri habilidades sólidas na elaboração de estratégias de teste, identificação e execução de testes de sistema e integração, além de realizar testes de regressão. Também tenho experiência em testes automatizados usando ferramentas como Cypress Robot Jmeter e Postman.
 
