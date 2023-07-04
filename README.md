@@ -1,9 +1,9 @@
 ### Olá, seja bem vindo ao meu perfil 😀!
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-patrocinio-barbosa-6b85b921b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fe_patrocinio/)
 
 ### Neste repositório, você encontrará um conjunto de boas práticas, ferramentas e exemplos que visam auxiliar no desenvolvimento de software com alta qualidade. Utilize-os como referência e busca contínua pela excelência na entrega de seu código.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-patrocinio-barbosa-6b85b921b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fe_patrocinio/)
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipePatrocinio&show_icons=true&theme=onedark)
 
