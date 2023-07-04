@@ -47,6 +47,7 @@ Em resumo, sou um profissional de QA dedicado, orientado para resultados e apaix
 - Criação de cenários e casos de testes
 - Report de bugs
 - Gherkin e BDD
-- Metodologia AGil / SCRUM e Kanbanc
+- Metodologia AGil / SCRUM e Kanban
 - JIRA / Zephyr
 - Jenkins CI/CD
+- Criação de massa de dados
