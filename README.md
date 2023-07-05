@@ -51,3 +51,11 @@ Em resumo, sou um profissional de QA dedicado, orientado para resultados e apaix
 - JIRA / Zephyr
 - Jenkins CI/CD
 - Criação de massa de dados
+
+### Ferramentes
+- Postman
+- JMeter
+- Cypress
+- Robot
+- Git
+- Selenium
