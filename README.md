@@ -57,5 +57,7 @@ Em resumo, sou um profissional de QA dedicado, orientado para resultados e apaix
 - JMeter
 - Cypress
 - Robot
-- Git
 - Selenium
+- MongoDB
+- SQL
+- Git
