@@ -64,4 +64,4 @@ Em resumo, sou um profissional de QA dedicado, orientado para resultados e apaix
 - Kubernetes
 - BitBucket
 - GitLab / GigBash / CMeder
-- VsCOde / Intellij
+- VsCode / Intellij
