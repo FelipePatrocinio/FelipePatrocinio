@@ -35,7 +35,7 @@ Em resumo, sou um profissional de QA dedicado, orientado para resultados e apaix
 - WEB
 - Mobile
 
-### Estrategias
+### Estrategias de testes
 - Teste Manual / Exploratório
 - Teste automatizado / Progressivo e Regressivo
 - Teste de integração funcional e não funcional
