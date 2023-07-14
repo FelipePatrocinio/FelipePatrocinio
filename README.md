@@ -61,3 +61,7 @@ Em resumo, sou um profissional de QA dedicado, orientado para resultados e apaix
 - MongoDB
 - SQL
 - Git
+- Kubernetes
+- BitBucket
+- GitLab / GigBash / CMeder
+- VsCOde / Intellij
